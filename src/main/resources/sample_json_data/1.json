@@ -1,0 +1,12 @@
+[
+  {
+    "fileInfo": {
+      "fileName": "ABC",
+      "fileType": "json"
+    },
+    "fileDetails": {
+      "fileSize": 3,
+      "fileContent": "Hello World"
+    }
+  }
+]
